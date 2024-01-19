@@ -12,4 +12,7 @@ $parameters = [
 
 $query-> execute($parameters);
 
+header('Location: https://emilieviot.sites.3wa.io/php/-bre01-php-j5-/index.php');
+exit;
+
 ?>
